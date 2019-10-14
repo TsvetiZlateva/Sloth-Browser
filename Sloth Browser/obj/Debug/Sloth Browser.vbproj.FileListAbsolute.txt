@@ -1,0 +1,13 @@
+D:\Projects\Sloth Browser\Sloth Browser\bin\Debug\Sloth Browser.exe.config
+D:\Projects\Sloth Browser\Sloth Browser\bin\Debug\Sloth Browser.exe
+D:\Projects\Sloth Browser\Sloth Browser\bin\Debug\Sloth Browser.pdb
+D:\Projects\Sloth Browser\Sloth Browser\bin\Debug\Sloth Browser.xml
+D:\Projects\Sloth Browser\Sloth Browser\obj\Debug\Sloth Browser.vbprojAssemblyReference.cache
+D:\Projects\Sloth Browser\Sloth Browser\obj\Debug\Sloth_Browser.Form1.resources
+D:\Projects\Sloth Browser\Sloth Browser\obj\Debug\Sloth_Browser.Resources.resources
+D:\Projects\Sloth Browser\Sloth Browser\obj\Debug\Sloth Browser.vbproj.GenerateResource.cache
+D:\Projects\Sloth Browser\Sloth Browser\obj\Debug\Sloth Browser.vbproj.CoreCompileInputs.cache
+D:\Projects\Sloth Browser\Sloth Browser\obj\Debug\Sloth Browser.exe
+D:\Projects\Sloth Browser\Sloth Browser\obj\Debug\Sloth Browser.xml
+D:\Projects\Sloth Browser\Sloth Browser\obj\Debug\Sloth Browser.pdb
+D:\Projects\Sloth Browser\Sloth Browser\obj\Debug\Sloth_Browser.Form2.resources

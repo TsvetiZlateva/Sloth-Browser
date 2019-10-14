@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Sloth Browser", "Sloth Browser\Sloth Browser.vbproj", "{058E0B25-94C1-433E-AB93-D7327B8AB6DC}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{FF9769B9-E7AA-439F-BAE8-0116F79AF59F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{058E0B25-94C1-433E-AB93-D7327B8AB6DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{058E0B25-94C1-433E-AB93-D7327B8AB6DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{058E0B25-94C1-433E-AB93-D7327B8AB6DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{058E0B25-94C1-433E-AB93-D7327B8AB6DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF9769B9-E7AA-439F-BAE8-0116F79AF59F}.Debug|Any CPU.ActiveCfg = Debug
+		{FF9769B9-E7AA-439F-BAE8-0116F79AF59F}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DA07D5E-B697-41E5-9A0D-4B682F733BB7}
+	EndGlobalSection
+EndGlobal
